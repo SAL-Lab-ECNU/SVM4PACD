@@ -1,7 +1,10 @@
-# Description
+SVM4PACD
+=======
+
+## Description
 This is the official code of research: Applying support vector machine for diagnostic classification model for polytomous attributes in small sample contexts
 
-# File Structure
+## File Structure
 * Qm: Q matrix. ---file naming convention: {attribute structure name}\_{number of attributes}\_{number of attribute levels}\_Qm/elseQp.csv <br>
 * Rmatrix ---file naming convention: {attribute structure name}\_{number of attributes}\_{number of attribute levels}.csv <br>
 * ideal_master_pattern ---file naming convention: {attribute structure name}\_{number of attributes}\_{number of attribute levels}\_IMP.csv <br>
